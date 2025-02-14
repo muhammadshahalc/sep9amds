@@ -3,7 +3,7 @@
 
 def fun(x):
 
-    x = x+10
+    x = x+10+1000
     return x
 
 x = int(input("enter a number"))
