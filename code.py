@@ -10,3 +10,6 @@ x = int(input("enter a number"))
 
 result = fun(x) 
 print("Result:", result) 
+
+def sub(x,y):
+    return x- y
